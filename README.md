@@ -7,7 +7,7 @@ My expertise lies in harnessing statistical and machine learning methods to unea
 ## Current Work
 - 🔭 I’m currently enhancing my skills in data visualization(PL-300 certificate), exploring how to effectively communicate insights through visual tools and dashboards.
 - 💬 I speak English
-- 📌 I am currently looking for new opportunities
+- 📌 Currently, I am seeking opportunities in data analysis and visualization that allow me to apply my skills in machine learning, statistical analysis, and integrate them with my background.
 
 ## Skills and Knowledge
 
