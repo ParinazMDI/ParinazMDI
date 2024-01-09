@@ -5,8 +5,7 @@ I am deeply invested in sustainability and data-driven innovation, with a strong
 My expertise lies in harnessing statistical and machine learning methods to unearth insights across various business landscapes, particularly where they intersect with sustainable development. I'm eager to engage with roles that challenge my analytical acumen and align with my dedication to data-centric, eco-conscious growth.
 
 ## Current Work
-- 🔭 I’m actively working towards obtaining the Professional Data Analyst Certificate from IBM, focusing on expanding my analytical expertise and technical proficiency.
-- 🌱 I’m currently enhancing my skills in data visualization(PL-300 certificate), exploring how to effectively communicate insights through visual tools and dashboards.
+- 🔭 I’m currently enhancing my skills in data visualization(PL-300 certificate), exploring how to effectively communicate insights through visual tools and dashboards.
 - 💬 I speak English
 - 📌 I am currently looking for new opportunities
 
