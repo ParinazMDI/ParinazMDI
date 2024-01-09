@@ -26,7 +26,7 @@ My expertise lies in harnessing statistical and machine learning methods to unea
 
 ## Projects
 
-### Credit Risk Assessment Project
+### Credit Risk Assessment 
 - **Description**: Developed a predictive model to assess borrower creditworthiness and potential loan defaults, leveraging financial data and risk management principles.
 - **Skills Applied**: Financial acumen in risk management, advanced statistical analysis, machine learning with Python, data visualization for reporting insights.
 
