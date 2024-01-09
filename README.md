@@ -41,6 +41,3 @@ My expertise lies in harnessing statistical and machine learning methods to unea
 **In all these projects, the quality of data plays a crucial role. Accurate and clean data is essential for developing effective models and obtaining reliable predictions.**
 
 
-## How to Reach Me
-- LinkedIn: [Your LinkedIn](Your LinkedIn URL)
-- Email: [Your Email](mailto:Your Email)
