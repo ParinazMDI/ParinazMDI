@@ -30,8 +30,8 @@ My expertise lies in harnessing statistical and machine learning methods to unea
 - **Skills Applied**: Financial acumen in risk management, advanced statistical analysis, machine learning with Python, data visualization for reporting insights.
 
 ### Book Recommender System
-- **Description**: Created a personalized book recommendation engine using NLP and collaborative filtering techniques, which intelligently suggests books based on user preferences.
-- **Skills Applied**: Programming with Python, NLP for text data processing, machine learning for recommendation algorithms, data handling and analysis of a large dataset.
+- **Description**: This Recommender System is an interactive tool that provides personalized book suggestions based on user queries, utilizing web scraping, API integration, and unsupervised machine learning.
+- **Skills Applied**: Python programming, data handling, machine learning, API integration, web scraping, user interface design.
 
 ### Donation Prediction and Amount Forecasting
 - **Description**: Built a dual-purpose model to forecast potential donations and classify likely donors, aiding in effective fundraising strategies for non-profits.
